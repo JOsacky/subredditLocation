@@ -1,0 +1,861 @@
+1,New York,New York,8336697,8175133,+1.98%,"302.643 sq mi
+783.842 km2","27,012 per sq mi
+10,430 km-2",2395220,40.6643  73.9385 ,New York,nyc,"nyc['60,113', '134']",60113
+2,Los Angeles,California,3857799,3792621,+1.72%,"468.670 sq mi
+1,213.850 km2","8,092 per sq mi
+3,124 km-2",2410877,34.0194  118.4108 ,California,LosAngeles,"LosAngeles['37,800', '~91']",37800
+3,Chicago,Illinois,2714856,2695598,+0.71%,"227.635 sq mi
+589.571 km2","11,842 per sq mi
+4,572 km-2",428803,41.8376  87.6818 ,Illinois,Chicago,"Chicago['50,406', '110']",50407
+4,Houston,Texas,2160821,2100263,+2.88%,"599.589 sq mi
+1,552.929 km2","3,501 per sq mi
+1,352 km-2",2410796,29.7805  95.3863 ,Texas,Houston,"Houston['18,956', '~85']",18956
+5,Philadelphia,Pennsylvania,1547607,1526006,+1.42%,"134.101 sq mi
+347.321 km2","11,379 per sq mi
+4,394 km-2",1215531,40.0094  75.1333 ,Pennsylvania,Philadelphia,"Philadelphia['20,997', '~89']",20997
+6,Phoenix,Arizona,1488750,1445632,+2.98%,"516.704 sq mi
+1,338.256 km2","2,798 per sq mi
+1,080 km-2",2411414,33.5722  112.0880 ,Arizona,Phoenix,"Phoenix['7,193', '~20']",7194
+7,San Antonio,Texas,1382951,1327407,+4.18%,"460.933 sq mi
+1,193.812 km2","2,880 per sq mi
+1,112 km-2",2411774,29.4724  98.5251 ,Texas,SanAntonio,"SanAntonio['6,230', '~34']",6230
+8,San Diego,California,1338348,1307402,+2.37%,"325.188 sq mi
+842.233 km2","4,020 per sq mi
+1,552 km-2",2411782,32.8153  117.1350 ,California,SanDiego,"SanDiego['16,418', '~47']",16417
+9,Dallas,Texas,1241162,1197816,+3.62%,"340.519 sq mi
+881.939 km2","3,518 per sq mi
+1,358 km-2",2410288,32.7757  96.7967 ,Texas,Dallas,"Dallas['15,120', '~81']",15120
+10,San Jose,California,982765,945942,+3.89%,"176.526 sq mi
+457.201 km2","5,359 per sq mi
+2,069 km-2",2411790,37.2969  121.8193 ,California,SanJose,"SanJose['4,757', '~20']",4759
+11,Austin,Texas,842592,790390,+6.60%,"297.896 sq mi
+771.547 km2","2,653 per sq mi
+1,024 km-2",2409761,30.3072  97.7560 ,Texas,Austin,"Austin['32,157', '160']",32157
+12,Jacksonville,Florida,836507,821784,+1.79%,"747.003 sq mi
+1,934.729 km2","1,120 per sq mi
+433 km-2",2404783,30.3370  81.6613 ,Florida,Jacksonville,"Jacksonville['2,648', '~10']",2648
+13,Indianapolis,Indiana,834852,820445,+1.76%,"361.433 sq mi
+936.108 km2","2,270 per sq mi
+876 km-2",2395424,39.7767  86.1459 ,Indiana,Indianapolis,"Indianapolis['4,832', '~26']",4832
+14,San Francisco,California,825863,805235,+2.56%,"46.873 sq mi
+121.400 km2","17,179 per sq mi
+6,633 km-2",2411786,37.7751  122.4193 ,California,SanFrancisco,"SanFrancisco['30,254', '134']",30256
+15,Columbus,Ohio,809798,787033,+2.89%,"217.169 sq mi
+562.466 km2","3,624 per sq mi
+1,399 km-2",1086101,39.9848  82.9850 ,Ohio,Columbus,"Columbus['9,481', '~26']",9481
+16,Fort Worth,Texas,777992,741206,+4.96%,"339.819 sq mi
+880.128 km2","2,181 per sq mi
+842 km-2",2410531,32.7795  97.3463 ,Texas,FortWorth,"FortWorth['3,370', '~4']",3371
+17,Charlotte,North Carolina,775202,731424,+5.99%,"297.678 sq mi
+770.984 km2","2,457 per sq mi
+949 km-2",2404032,35.2087  80.8307 ,North Carolina,Charlotte,"Charlotte['4,884', '~10']",4885
+18,Detroit,Michigan,701475,713777,-1.7200%,"138.750 sq mi
+359.362 km2","5,144 per sq mi
+1,986 km-2",1626181,42.3830  83.1022 ,Michigan,Detroit,"Detroit['8,873', '~23']",8873
+19,El Paso,Texas,672538,649121,+3.61%,"255.235 sq mi
+661.057 km2","2,543 per sq mi
+982 km-2",2410414,31.8484  106.4270 ,Texas,ElPaso,"ElPaso['1,231', '~3']",1231
+20,Memphis,Tennessee,655155,646889,+1.28%,"315.055 sq mi
+815.988 km2","2,053 per sq mi
+793 km-2",2405068,35.1035  89.9785 ,Tennessee,Memphis,"Memphis['3,038', '~18']",3038
+21,Boston,Massachusetts,636479,617594,+3.06%,"48.277 sq mi
+125.037 km2","12,793 per sq mi
+4,939 km-2",619463,42.3320  71.0202 ,Massachusetts,Boston,"Boston['35,410', '~64']",35411
+22,Seattle,Washington,634535,608660,+4.25%,"83.943 sq mi
+217.410 km2","7,251 per sq mi
+2,800 km-2",2411856,47.6205  122.3509 ,Washington,Seattle,"Seattle['48,314', '157']",48314
+23,Denver,Colorado,634265,600158,+5.68%,"153.000 sq mi
+396.269 km2","3,923 per sq mi
+1,515 km-2",2410324,39.7618  104.8806 ,Colorado,Denver,"Denver['17,071', '~74']",17071
+24,Washington,District of Columbia,632323,601723,+5.09%,"61.048 sq mi
+158.115 km2","9,856 per sq mi
+3,806 km-2",2390665,38.9041  77.0171 ,District of Columbia,Washington,"Washington['4,562', '~9']",4562
+25,Nashville,Tennessee,624496,601222,+3.87%,"475.126 sq mi
+1,230.570 km2","1,265 per sq mi
+489 km-2",2405092,36.1718  86.7850 ,Tennessee,Nashville,"Nashville['6,159', '~17']",6159
+26,Baltimore,Maryland,621342,620961,+0.06%,"80.944 sq mi
+209.643 km2","7,672 per sq mi
+2,962 km-2",1702381,39.3002  76.6105 ,Maryland,Baltimore,"Baltimore['10,441', '~40']",10442
+27,Louisville,Kentucky,605110,597337,+1.30%,"325.248 sq mi
+842.389 km2","1,837 per sq mi
+709 km-2",1967434,38.1781  85.6667 ,Kentucky,Louisville,"Louisville['5,302', '~25']",5302
+28,Portland,Oregon,603106,583776,+3.31%,"133.427 sq mi
+345.573 km2","4,375 per sq mi
+1,689 km-2",2411471,45.5370  122.6500 ,Oregon,Portland,"Portland['34,406', '~77']",34406
+29,Oklahoma City,Oklahoma,599199,579999,+3.31%,"606.410 sq mi
+1,570.596 km2","956 per sq mi
+369 km-2",2411311,35.4671  97.5137 ,Oklahoma,okc,"okc['2,137', '~3']",2137
+30,Milwaukee,Wisconsin,598916,594833,+0.69%,"96.122 sq mi
+248.955 km2","6,188 per sq mi
+2,389 km-2",1583724,43.0633  87.9667 ,Wisconsin,Milwaukee,"Milwaukee['5,469', '~23']",5469
+31,Las Vegas,Nevada,596424,583756,+2.17%,"135.815 sq mi
+351.759 km2","4,298 per sq mi
+1,660 km-2",2411630,36.2277  115.2640 ,Nevada,LasVegas,"LasVegas['3,398', '~11']",3398
+32,Albuquerque,New Mexico,555417,545852,+1.75%,"187.730 sq mi
+486.218 km2","2,908 per sq mi
+1,123 km-2",2409678,35.1056  106.6474 ,New Mexico,Albuquerque,"Albuquerque['3,038', '~15']",3039
+33,Tucson,Arizona,524295,520116,+0.80%,"226.709 sq mi
+587.173 km2","2,294 per sq mi
+886 km-2",2412104,32.1543  110.8711 ,Arizona,Tucson,"Tucson['4,063', '~25']",4064
+34,Fresno,California,505882,494665,+2.27%,"111.957 sq mi
+289.967 km2","4,418 per sq mi
+1,706 km-2",2410546,36.7827  119.7945 ,California,Fresno,"Fresno['1,358', '~8']",1358
+35,Sacramento,California,475516,466488,+1.94%,"97.915 sq mi
+253.600 km2","4,764 per sq mi
+1,839 km-2",2411751,38.5666  121.4686 ,California,Sacramento,"Sacramento['5,853', '~22']",5853
+36,Long Beach,California,467892,462257,+1.22%,"50.293 sq mi
+130.259 km2","9,191 per sq mi
+3,549 km-2",2410866,33.8091  118.1553 ,California,LongBeach,"LongBeach['2,050', '~14']",2050
+37,Kansas City,Missouri,464310,459787,+0.98%,"314.950 sq mi
+815.717 km2","1,460 per sq mi
+564 km-2",2395492,39.1252  94.5511 ,Missouri,KansasCity,"KansasCity['8,300', '~26']",8300
+38,Mesa,Arizona,452084,439041,+2.97%,"136.452 sq mi
+353.410 km2","3,218 per sq mi
+1,242 km-2",2411087,33.4019  111.7174 ,Arizona,MesaAZ,"MesaAZ['58', '~4']",58
+39,Virginia Beach,Virginia,447021,437994,+2.06%,"249.016 sq mi
+644.949 km2","1,759 per sq mi
+679 km-2",1498559,36.7793  76.0240 ,Virginia,VirginiaBeach,"VirginiaBeach['869', '~8']",869
+40,Atlanta,Georgia,443775,420003,+5.66%,"133.152 sq mi
+344.861 km2","3,154 per sq mi
+1,218 km-2",2403126,33.7629  84.4227 ,Georgia,Atlanta,"Atlanta['19,834', '~77']",19834
+41,Colorado Springs,Colorado,431834,416427,+3.70%,"194.540 sq mi
+503.858 km2","2,141 per sq mi
+826 km-2",2410198,38.8673  104.7607 ,Colorado,ColoradoSprings,"ColoradoSprings['2,024', '~8']",2025
+42,Raleigh,North Carolina,423179,403892,+4.78%,"142.903 sq mi
+370.117 km2","2,826 per sq mi
+1,091 km-2",2404590,35.8302  78.6414 ,North Carolina,Raleigh,"Raleigh['4,845', '~19']",4845
+43,Omaha,Nebraska,421570,408958,+3.08%,"127.088 sq mi
+329.157 km2","3,218 per sq mi
+1,242 km-2",2396064,41.2647  96.0419 ,Nebraska,Omaha,"Omaha['4,226', '~19']",4226
+44,Miami,Florida,413892,399457,+3.61%,"35.871 sq mi
+92.906 km2","11,539 per sq mi
+4,455 km-2",2404247,25.7752  80.2086 ,Florida,Miami,"Miami['5,729', '~16']",5730
+45,Oakland,California,400740,390724,+2.56%,"55.786 sq mi
+144.485 km2","7,004 per sq mi
+2,704 km-2",2411292,37.7699  122.2256 ,California,Oakland,"Oakland['4,136', '~16']",4136
+46,Tulsa,Oklahoma,393987,391906,+0.53%,"196.754 sq mi
+509.590 km2","1,992 per sq mi
+769 km-2",2412110,36.1279  95.9023 ,Oklahoma,Tulsa,"Tulsa['2,893', '~10']",2893
+47,Minneapolis,Minnesota,392880,382578,+2.69%,"53.973 sq mi
+139.789 km2","7,088 per sq mi
+2,737 km-2",2395345,44.9633  93.2683 ,Minnesota,Minneapolis,"Minneapolis['7,018', '~13']",7019
+48,Cleveland,Ohio,390928,396815,-1.4800%,"77.697 sq mi
+201.234 km2","5,107 per sq mi
+1,972 km-2",1085963,41.4781  81.6795 ,Ohio,Cleveland,"Cleveland['6,738', '~20']",6738
+49,Wichita,Kansas,385577,382368,+0.84%,"159.295 sq mi
+412.571 km2","2,400 per sq mi
+927 km-2",485662,37.6907  97.3427 ,Kansas,Wichita,"Wichita['1,501', '~17']",1501
+50,Arlington,Texas,375600,365438,+2.78%,"95.882 sq mi
+248.332 km2","3,811 per sq mi
+1,472 km-2",2409731,32.7007  97.1247 ,Texas,Arlington,"Arlington['1,101', '~10']",1101
+51,New Orleans,Louisiana,369250,343829,+7.39%,"169.423 sq mi
+438.803 km2","2,029 per sq mi
+784 km-2",545142,30.0686  89.9390 ,Louisiana,NewOrleans,New Orleans[],8179
+52,Bakersfield,California,358597,347483,+3.20%,"142.164 sq mi
+368.204 km2","2,444 per sq mi
+944 km-2",2409774,35.3212  119.0183 ,California,Bakersfield,"Bakersfield['1,085', '~3']",1085
+53,Tampa,Florida,347645,335709,+3.56%,"113.409 sq mi
+293.728 km2","3,077 per sq mi
+1,182 km-2",2405568,27.9701  82.4797 ,Florida,Tampa,"Tampa['6,804', '~32']",6804
+54,Honolulu,Hawai'i,345610,337256,+2.48%,"60.521 sq mi
+156.748 km2","5,573 per sq mi
+2,152 km-2",2630783,21.3259  157.8453 ,Hawai'i,Honolulu,"Honolulu['134', '~4']",134
+55,Anaheim,California,343248,336265,+2.08%,"49.835 sq mi
+129.073 km2","6,748 per sq mi
+2,605 km-2",2409704,33.8555  117.7601 ,California,Anaheim,"Anaheim['108', '~4']",108
+56,Aurora,Colorado,339030,325078,+4.29%,"154.100 sq mi
+369.100 km2","2,110 per sq mi
+881 km-2",2409731,32.7007  97.1247 ,Colorado,Aurora,"Aurora['194', '~1']",194
+57,Santa Ana,California,330920,324528,+1.97%,"27.270 sq mi
+70.628 km2","11,901 per sq mi
+4,595 km-2",2411814,33.7365  117.8826 ,California,OrangeCounty,"SantaAna['10', '~3']",9935
+58,St. Louis,Missouri,318172,319294,-0.3500%,"61.909 sq mi
+160.343 km2","5,157 per sq mi
+1,991 km-2",767557,38.6357  90.2446 ,Missouri,StLouis,"StLouis['10,275', '~33']",10275
+59,Riverside,California,313673,303871,+3.23%,"81.140 sq mi
+210.152 km2","3,745 per sq mi
+1,446 km-2",2410965,33.9381  117.3932 ,California,Riverside,"Riverside['173', '~5']",173
+60,Corpus Christi,Texas,312195,305215,+2.29%,"160.612 sq mi
+415.982 km2","1,900 per sq mi
+734 km-2",2410234,27.7543  97.1734 ,Texas,CorpusChristi,"CorpusChristi['48', '~2']",48
+61,Pittsburgh,Pennsylvania,306211,305704,+0.17%,"55.367 sq mi
+143.400 km2","5,521 per sq mi
+2,132 km-2",1214818,40.4398  79.9766 ,Pennsylvania,Pittsburgh,"Pittsburgh['12,986', '~42']",12986
+62,Lexington,Kentucky,305489,295803,+3.27%,"283.649 sq mi
+734.649 km2","1,043 per sq mi
+403 km-2",2405089,38.0402  84.4584 ,Kentucky,Lexington,"Lexington['2,592', '~9']",2592
+63,Anchorage,Alaska,298610,291826,+2.32%,"1,704.683 sq mi
+4,415.109 km2","171 per sq mi
+66 km-2",2419025,61.1775  149.2744 ,Alaska,Anchorage,"Anchorage['1,091', '~1']",1091
+64,Stockton,California,297984,291707,+2.15%,"61.670 sq mi
+159.723 km2","4,730 per sq mi
+1,826 km-2",2411987,37.9763  121.3133 ,California,Stocktonca,"Stocktonca['264', '~2']",264
+65,Cincinnati,Ohio,296550,296943,-0.1300%,"77.942 sq mi
+201.870 km2","3,810 per sq mi
+1,471 km-2",1086201,39.1399  84.5064 ,Ohio,Cincinnati,"Cincinnati['8,005', '~23']",8005
+66,Saint Paul,Minnesota,290770,285068,+2.00%,"51.979 sq mi
+134.624 km2","5,484 per sq mi
+2,118 km-2",2396511,44.9489  93.1039 ,Minnesota,SaintPaul,"SaintPaul['503', '~2']",503
+67,Toledo,Ohio,284012,287208,-1.1100%,"80.692 sq mi
+208.991 km2","3,559 per sq mi
+1,374 km-2",1086537,41.6641  83.5819 ,Ohio,Toledo,"Toledo['1,237', '~5']",1237
+68,Newark,New Jersey,277727,277140,+0.21%,"24.187 sq mi
+62.644 km2","11,458 per sq mi
+4,424 km-2",885317,40.7242  74.1726 ,New Jersey,Newark,"Newark['449', '~5']",449
+69,Greensboro,North Carolina,277080,269666,+2.75%,"126.515 sq mi
+327.673 km2","2,131 per sq mi
+823 km-2",2403745,36.0965  79.8271 ,North Carolina,gso,"gso['1,244', '~9']",1244
+70,Plano,Texas,272068,259841,+4.71%,"71.581 sq mi
+185.395 km2","3,630 per sq mi
+1,402 km-2",2411437,33.0508  96.7479 ,Texas,Plano,"Plano['1,068', '~5']",1068
+71,Henderson,Nevada,265679,257729,+3.08%,"107.732 sq mi
+279.024 km2","2,392 per sq mi
+924 km-2",2410741,36.0122  115.0375 ,Nevada,cityofHenderson,"Henderson???['14', '~6']",5
+72,Lincoln,Nebraska,265404,258379,+2.72%,"89.114 sq mi
+230.804 km2","2,899 per sq mi
+1,119 km-2",2395713,40.8090  96.6804 ,Nebraska,Lincoln,"Lincoln['1,685', '~12']",1685
+73,Buffalo,New York,259384,261310,-0.7400%,"40.384 sq mi
+104.594 km2","6,471 per sq mi
+2,498 km-2",978764,42.8925  78.8597 ,New York,Buffalo,"Buffalo['4,358', '~25']",4358
+74,Fort Wayne,Indiana,254555,253691,+0.34%,"110.618 sq mi
+286.500 km2","2,293 per sq mi
+885 km-2",2394798,41.0882  85.1439 ,Indiana,FortWayne,"FortWayne['1,034', '~4']",1034
+75,Jersey City,New Jersey,254441,247597,+2.76%,"14.794 sq mi
+38.316 km2","16,737 per sq mi
+6,462 km-2",885264,40.7114  74.0648 ,New Jersey,JerseyCity,"JerseyCity['997', '~4']",997
+76,Chula Vista,California,252422,243916,+3.49%,"49.631 sq mi
+128.545 km2","4,915 per sq mi
+1,898 km-2",2409461,32.6277  117.0152 ,California,ChulaVista,"ChulaVista['32', '~5']",32
+77,Orlando,Florida,249562,238300,+4.73%,"102.395 sq mi
+265.203 km2","2,327 per sq mi
+899 km-2",2404443,28.4159  81.2988 ,Florida,Orlando,"Orlando['7,595', '~30']",7596
+78,St. Petersburg,Florida,246541,244769,+0.72%,"61.742 sq mi
+159.910 km2","3,964 per sq mi
+1,531 km-2",2405401,27.7620  82.6441 ,Florida,StPetersburg,"StPetersburg['12', '~2']",12
+79,Norfolk,Virginia,245782,242803,+1.23%,"54.120 sq mi
+140.171 km2","4,486 per sq mi
+1,732 km-2",1498557,36.9230  76.2446 ,Virginia,Norfolk,"Norfolk['1,918', '~3']",1918
+80,Chandler,Arizona,245628,236123,+4.03%,"64.413 sq mi
+166.828 km2","3,666 per sq mi
+1,415 km-2",2409433,33.2829  111.8549 ,Arizona,Chandleraz,"Chandleraz['81', '~0']",81
+81,Laredo,Texas,244731,236091,+3.66%,"88.908 sq mi
+230.271 km2","2,655 per sq mi
+1,025 km-2",2411626,27.5477  99.4869 ,Texas,Laredo,"Laredo['167', '~5']",167
+82,Madison,Wisconsin,240323,233209,+3.05%,"76.789 sq mi
+198.882 km2","3,037 per sq mi
+1,173 km-2",1583625,43.0878  89.4301 ,Wisconsin,Madison,"Madison['135', '~4']",135
+83,Durham,North Carolina,239358,228330,+4.83%,"107.370 sq mi
+278.088 km2","2,127 per sq mi
+821 km-2",2403521,35.9810  78.9056 ,North Carolina,Durham,"Durham['515', '~0']",515
+84,Lubbock,Texas,236065,229573,+2.83%,"122.410 sq mi
+317.041 km2","1,875 per sq mi
+724 km-2",2410892,33.5665  101.8867 ,Texas,Lubbock,"Lubbock['1,569', '~0']",1569
+85,Winston–Salem,North Carolina,234349,229617,+2.06%,"132.449 sq mi
+343.041 km2","1,734 per sq mi
+669 km-2",2405771,36.1033  80.2606 ,North Carolina,WinstonSalem,"WinstonSalem['895', '~6']",895
+86,Garland,Texas,233564,226876,+2.95%,"57.085 sq mi
+147.849 km2","3,974 per sq mi
+1,535 km-2",2410572,32.9098  96.6304 ,Texas,Garlandtx,"Garland['3', '~0']",14
+87,Glendale,Arizona,232143,226721,+2.39%,"59.976 sq mi
+155.337 km2","3,780 per sq mi
+1,460 km-2",2410596,33.5331  112.1899 ,Arizona,Glendale,"Glendale['173', '~5']",173
+88,Hialeah,Florida,231941,224669,+3.24%,"21.450 sq mi
+55.555 km2","10,474 per sq mi
+4,044 km-2",2404689,25.8699  80.3029 ,Florida,Hialeah,"Hialeah['6', '~0']",6
+89,Reno,Nevada,231027,225221,+2.58%,"103.009 sq mi
+266.793 km2","2,186 per sq mi
+844 km-2",2410923,39.4745  119.7765 ,Nevada,Reno,"Reno['1,879', '~4']",1879
+90,Baton Rouge,Louisiana,230058,229493,+0.25%,"76.947 sq mi
+199.292 km2","2,982 per sq mi
+1,152 km-2",2403821,30.4485  91.1259 ,Louisiana,BatonRouge,"BatonRouge['2,285', '~5']",2285
+91,Irvine,California,229985,212375,+8.29%,"66.106 sq mi
+171.214 km2","3,213 per sq mi
+1,240 km-2",2410116,33.6784  117.7713 ,California,Irvine,"Irvine['697', '~5']",697
+92,Chesapeake,Virginia,228417,222209,+2.79%,"340.800 sq mi
+882.669 km2","652 per sq mi
+252 km-2",1498558,36.6794  76.3018 ,Virginia,Chesapeake,"Chesapeake['103', '~4']",103
+93,Irving,Texas,225427,216290,+4.22%,"67.017 sq mi
+173.574 km2","3,227 per sq mi
+1,246 km-2",2410117,32.8577  96.9700 ,Texas,Irving,"Irving['9', '~0']",9
+94,Scottsdale,Arizona,223514,217385,+2.82%,"183.920 sq mi
+476.350 km2","1,182 per sq mi
+456 km-2",2411845,33.6687  111.8237 ,Arizona,Scottsdale,"Scottsdale['490', '~5']",490
+95,North Las Vegas,Nevada,223491,216961,+3.01%,"101.345 sq mi
+262.483 km2","2,141 per sq mi
+827 km-2",2411273,36.2830  115.0893 ,Nevada,North Las Vegas,North Las Vegas[],0
+96,Fremont,California,221986,214089,+3.69%,"77.459 sq mi
+200.618 km2","2,764 per sq mi
+1,067 km-2",2410545,37.4944  121.9411 ,California,Fremont,"Fremont['340', '~0']",340
+97,Gilbert,Arizona,221140,208453,+6.09%,"67.963 sq mi
+176.023 km2","3,067 per sq mi
+1,184 km-2",2412682,33.3102  111.7422 ,Arizona,Gilbertaz,"Gilbertaz['1', '~4']",1
+98,San Bernardino,California,213295,209924,+1.61%,"59.201 sq mi
+153.330 km2","3,546 per sq mi
+1,369 km-2",2411777,34.1393  117.2953 ,California,SanBernardino,"SanBernardino['34', '~2']",34
+99,Boise,Idaho,212303,205671,+3.22%,"79.364 sq mi
+205.551 km2","2,592 per sq mi
+1,001 km-2",2409876,43.5985  116.2311 ,Idaho,Boise,"Boise['2,804', '~13']",2805
+100,Birmingham,Alabama,212038,212237,-0.0900%,"146.067 sq mi
+378.311 km2","1,453 per sq mi
+561 km-2",2403868,33.5274  86.7990 ,Alabama,Birmingham,"Birmingham['3,020', '~15']",3020
+101,Rochester,New York,210532,210565,-0.0200%,"35.781 sq mi
+92.672 km2","5,885 per sq mi
+2,272 km-2",979426,43.1699  77.6169 ,New York,Rochester,"Rochester['4,749', '~11']",4750
+102,Richmond,Virginia,210309,204214,+2.98%,"59.805 sq mi
+154.895 km2","3,415 per sq mi
+1,318 km-2",1789073,37.5314  77.4760 ,Virginia,Richmond,"Richmond['152', '~4']",152
+103,Spokane,Washington,209525,208916,+0.29%,"59.247 sq mi
+153.448 km2","3,526 per sq mi
+1,361 km-2",2411956,47.6736  117.4166 ,Washington,Spokane,"Spokane['2,015', '~10']",2015
+104,Des Moines,Iowa,206688,203433,+1.60%,"80.869 sq mi
+209.451 km2","2,516 per sq mi
+971 km-2",2394522,41.5739  93.6167 ,Iowa,DesMoines,"DesMoines['1,910', '~7']",1910
+105,Montgomery,Alabama,205293,205764,-0.2300%,"159.565 sq mi
+413.272 km2","1,290 per sq mi
+498 km-2",2404289,32.3463  86.2686 ,Alabama,Montgomery,"Montgomery['179', '~0']",179
+106,Modesto,California,203547,201165,+1.18%,"36.867 sq mi
+95.486 km2","5,456 per sq mi
+2,107 km-2",2411130,37.6609  120.9891 ,California,Modesto,"Modesto['411', '~5']",411
+107,Fayetteville,North Carolina,202103,200564,+0.77%,"145.845 sq mi
+377.736 km2","1,375 per sq mi
+531 km-2",2403604,35.0851  78.9803 ,North Carolina,Fayetteville,"Fayetteville['1,176', '~3']",1176
+108,Tacoma,Washington,202010,198397,+1.82%,"49.721 sq mi
+128.777 km2","3,990 per sq mi
+1,541 km-2",2412025,47.2522  122.4598 ,Washington,Tacoma,"Tacoma['2,061', '~8']",2061
+109,Shreveport,Louisiana,201867,199311,+1.28%,"105.375 sq mi
+272.920 km2","1,891 per sq mi
+730 km-2",2405463,32.4670  93.7927 ,Louisiana,Shreveport,"Shreveport['795', '~3']",795
+110,Fontana,California,201812,196069,+2.93%,"42.432 sq mi
+109.899 km2","4,621 per sq mi
+1,784 km-2",2410517,34.1088  117.4627 ,California,Fontana,"Fontana['14', '~5']",14
+111,Oxnard,California,201555,197899,+1.85%,"26.894 sq mi
+69.656 km2","7,358 per sq mi
+2,841 km-2",2411347,34.2023  119.2046 ,California,Oxnard,"Oxnard['48', '~3']",48
+112,Aurora,Illinois,199932,197899,+1.03%,"44.936 sq mi
+116.384 km2","4,404 per sq mi
+1,700 km-2",2394031,41.7635  88.2901 ,Illinois,Aurora,"Aurora['194', '~1']",194
+113,Moreno Valley,California,199552,193365,+3.20%,"51.275 sq mi
+132.800 km2","3,771 per sq mi
+1,456 km-2",2411159,33.9233  117.2057 ,California,MorenoValley,"MorenoValley['11', '~5']",11
+114,Akron,Ohio,198549,199110,-0.2800%,"62.033 sq mi
+160.664 km2","3,210 per sq mi
+1,239 km-2",1086993,41.0805  81.5214 ,Ohio,Akron,"Akron['1,216', '~3']",1216
+115,Yonkers,New York,198449,195976,+1.26%,"18.012 sq mi
+46.651 km2","10,880 per sq mi
+4,201 km-2",979660,40.9459  73.8674 ,New York,Yonkers,"Yonkers['55', '~4']",55
+116,Columbus,Georgia,198413,189885,+4.49%,"216.385 sq mi
+560.435 km2","878 per sq mi
+339 km-2",2404111,32.5102  84.8749 ,Georgia,Columbus,"Columbus['9,481', '~26']",9481
+117,Augusta,Georgia,197872,195844,+1.04%,"302.474 sq mi
+783.404 km2","647 per sq mi
+250 km-2",2405078,33.3655  82.0734 ,Georgia,Augusta,"Augusta['771', '~1']",771
+118,Little Rock,Arkansas,196537,193524,+1.56%,"119.200 sq mi
+308.726 km2","1,624 per sq mi
+627 km-2",2404939,34.7254  92.3586 ,Arkansas,LittleRock,"LittleRock['1,340', '~6']",1340
+119,Amarillo,Texas,195250,190695,+2.39%,"99.476 sq mi
+257.641 km2","1,917 per sq mi
+740 km-2",2409694,35.1978  101.8287 ,Texas,Amarillo,"Amarillo['453', '~4']",453
+120,Mobile,Alabama,194822,195111,-0.1500%,"139.109 sq mi
+360.290 km2","1,403 per sq mi
+542 km-2",2404278,30.6684  88.1002 ,Alabama,Mobile,"Mobile['2,199', '~3']",2199
+121,Huntington Beach,California,194708,189992,+2.48%,"26.748 sq mi
+69.278 km2","7,103 per sq mi
+2,742 km-2",2410811,33.6906  118.0093 ,California,HuntingtonBeach,"HuntingtonBeach['551', '~1']",551
+122,Glendale,California,194478,191719,+1.44%,"30.453 sq mi
+78.874 km2","6,295 per sq mi
+2,431 km-2",2410597,34.1814°N 118.2458,California,Glendale,"Glendale['173', '~5']",173
+123,Grand Rapids,Michigan,190411,188040,+1.26%,"44.395 sq mi
+114.984 km2","4,236 per sq mi
+1,635 km-2",1626373,42.9612  85.6556 ,Michigan,GrandRapids,"GrandRapids['3,735', '~20']",3735
+124,Salt Lake City,Utah,189314,186440,+1.54%,"111.110 sq mi
+287.773 km2","1,678 per sq mi
+648 km-2",2411771,40.7785  111.9314 ,Utah,SaltLakeCity,"SaltLakeCity['6,327', '~24']",6329
+125,Tallahassee,Florida,186971,181376,+3.08%,"100.247 sq mi
+259.638 km2","1,809 per sq mi
+699 km-2",2405563,30.4551  84.2534 ,Florida,Tallahassee,"Tallahassee['1,661', '~4']",1661
+126,Huntsville,Alabama,183739,180105,+2.02%,"209.054 sq mi
+541.447 km2","862 per sq mi
+333 km-2",2404746,34.7843  86.5390 ,Alabama,HuntsvilleAlabama,"HuntsvilleAlabama['2,417', '~14']",2417
+127,Worcester,Massachusetts,182669,181045,+0.90%,"37.371 sq mi
+96.790 km2","4,845 per sq mi
+1,870 km-2",619493,42.2695  71.8078 ,Massachusetts,Worcester,"Worcester['229', '~2']",229
+128,Knoxville,Tennessee,182200,178874,+1.86%,"98.521 sq mi
+255.167 km2","1,816 per sq mi
+701 km-2",2404842,35.9709  83.9465 ,Tennessee,Knoxville,"Knoxville['2,725', '~11']",2725
+129,Grand Prairie,Texas,181824,175396,+3.66%,"72.105 sq mi
+186.750 km2","2,433 per sq mi
+939 km-2",2410632,32.6842  97.0210 ,Texas,GrandPrairie,"GrandPrairie['10', '~0']",10
+130,Newport News,Virginia,180726,180719,+0.00%,"68.714 sq mi
+177.968 km2","2,630 per sq mi
+1,015 km-2",1498555,37.0760  76.5217 ,Virginia,NewportNews,"NewportNews????['35', '~2']",35
+131,Brownsville,Texas,180097,175023,+2.90%,"132.330 sq mi
+342.734 km2","1,323 per sq mi
+511 km-2",2409924,26.0183  97.4538 ,Texas,Brownsville,"Brownsville['56', '~4']",56
+132,Santa Clarita,California,179013,176320,+1.53%,"52.716 sq mi
+136.535 km2","3,345 per sq mi
+1,291 km-2",2411819,34.4049  118.5047 ,California,SantaClarita,"SantaClarita['353', '~4']",353
+133,Overland Park,Kansas,178919,173372,+3.20%,"74.841 sq mi
+193.839 km2","2,317 per sq mi
+894 km-2",485639,38.8890  94.6906 ,Kansas,OverlandPark,"OverlandPark['18', '~3']",18
+134,Providence,Rhode Island,178432,178042,+0.22%,"18.400 sq mi
+47.656 km2","9,676 per sq mi
+3,736 km-2",1220076,41.8231  71.4188 ,Rhode Island,Providence,"Providence['2,127', '~3']",2127
+135,Jackson,Mississippi,175437,173514,+1.11%,"111.046 sq mi
+287.608 km2","1,563 per sq mi
+603 km-2",2404779,32.3158  90.2128 ,Mississippi,Jacksonms,"Jacksonms['287', '~6']",287
+136,Garden Grove,California,174389,170883,+2.05%,"17.941 sq mi
+46.467 km2","9,525 per sq mi
+3,677 km-2",2410568,33.7788  117.9605 ,California,GardenGrove,"GardenGrove['7', '~3']",7
+137,Oceanside,California,171293,167086,+2.52%,"41.235 sq mi
+106.798 km2","4,052 per sq mi
+1,565 km-2",2411301,33.2246  117.3062 ,California,Oceanside,"Oceanside['28', '~6']",28
+138,Chattanooga,Tennessee,171279,167674,+2.15%,"137.152 sq mi
+355.222 km2","1,223 per sq mi
+472 km-2",2404035,35.0665  85.2471 ,Tennessee,Chattanooga,"Chattanooga['2,329', '~22']",2329
+139,Fort Lauderdale,Florida,170747,165521,+3.16%,"34.765 sq mi
+90.042 km2","4,761 per sq mi
+1,838 km-2",2403640,26.1413  80.1439 ,Florida,FortLauderdale,"FortLauderdale['1,578', '~6']",1578
+140,Rancho Cucamonga,California,170746,165269,+3.31%,"39.851 sq mi
+103.212 km2","4,147 per sq mi
+1,601 km-2",2411514,34.1233  117.5642 ,California,RanchoCucamonga,"RanchoCucamonga['57', '~4']",57
+141,Santa Rosa,California,170685,167815,+1.71%,"41.294 sq mi
+106.950 km2","4,064 per sq mi
+1,569 km-2",2411827,38.4468  122.7061 ,California,SantaRosa,"SantaRosa['982', '~2']",982
+142,Port St. Lucie,Florida,168716,164603,+2.50%,"113.953 sq mi
+295.136 km2","1,444 per sq mi
+558 km-2",2404558,27.2810  80.3838 ,Florida,PortStLucie,"PortStLucie['92', '~2']",92
+143,Ontario,California,167211,163924,+2.01%,"49.941 sq mi
+129.345 km2","3,282 per sq mi
+1,267 km-2",2411323,34.0395  117.6088 ,California,Ontario,"Ontario['7,107', '~10']",7107
+144,Tempe,Arizona,166842,161719,+3.17%,"39.929 sq mi
+103.416 km2","4,050 per sq mi
+1,564 km-2",2412045,33.3884  111.9318 ,Arizona,Tempe,"Tempe['1,783', '~5']",1784
+145,Vancouver,Washington,165489,161791,+2.29%,"46.456 sq mi
+120.322 km2","3,483 per sq mi
+1,345 km-2",2412146,45.6372  122.5965 ,Washington,Vancouver,"Vancouver['22,640', '107']",22641
+146,Springfield,Missouri,162191,159498,+1.69%,"81.720 sq mi
+211.654 km2","1,952 per sq mi
+754 km-2",2395942,37.1942  93.2913 ,Missouri,SpringfieldMO,"SpringfieldMO['1,531', '~8']",1531
+147,Cape Coral,Florida,161248,154305,+4.50%,"105.673 sq mi
+273.691 km2","1,460 per sq mi
+564 km-2",2403990,26.6431  81.9973 ,Florida,CapeCoral,"CapeCoral['29', '~4']",29
+148,Pembroke Pines,Florida,160306,154019,+4.08%,"33.124 sq mi
+85.790 km2","4,672 per sq mi
+1,804 km-2",2404502,26.0212  80.3404 ,Florida,PembrokePines,"PembrokePines['31', '~1']",31
+149,Sioux Falls,South Dakota,159908,153888,+3.91%,"72.964 sq mi
+188.977 km2","2,109 per sq mi
+814 km-2",1267566,43.5383  96.7320 ,South Dakota,SiouxFalls,"SiouxFalls['680', '~7']",680
+150,Peoria,Arizona,159789,154065,+3.72%,"174.404 sq mi
+451.704 km2","883 per sq mi
+341 km-2",2411401,33.7877  112.3111 ,Arizona,Peoriaaz,"Peoria?['66', '~5']",0
+151,Lancaster,California,159055,156633,+1.55%,"94.276 sq mi
+244.175 km2","1,661 per sq mi
+641 km-2",2411620,34.6936  118.1753 ,California,LancasterCA,"LancasterCA['4', '~1']",4
+152,Elk Grove,California,159038,153015,+3.94%,"42.190 sq mi
+109.271 km2","3,627 per sq mi
+1,400 km-2",2410425,38.4144  121.3849 ,California,ElkGrove,"ElkGrove['145', '~3']",145
+153,Corona,California,158391,152374,+3.95%,"38.825 sq mi
+100.558 km2","3,925 per sq mi
+1,515 km-2",2410232,33.8624  117.5639 ,California,Corona,"Corona['111', '~3']",111
+154,Eugene,Oregon,157986,156185,+1.15%,"43.723 sq mi
+113.241 km2","3,572 per sq mi
+1,379 km-2",2410460,44.0567  123.1162 ,Oregon,Eugene,"Eugene['3,109', '~11']",3109
+155,Salem,Oregon,157429,154637,+1.81%,"47.896 sq mi
+124.049 km2","3,229 per sq mi
+1,247 km-2",2411764,44.9237  123.0231 ,Oregon,Salem,"Salem['799', '~4']",799
+156,Palmdale,California,155650,152750,+1.90%,"105.961 sq mi
+274.439 km2","1,442 per sq mi
+557 km-2",2411359,34.5913  118.1090 ,California,palmdale,"palmdale['45', '~4']",45
+157,Salinas,California,154484,150441,+2.69%,"23.179 sq mi
+60.033 km2","6,490 per sq mi
+2,506 km-2",2411768,36.6902  121.6337 ,California,Salinas,"Salinas['63', '~2']",63
+158,Springfield,Massachusetts,153552,153060,+0.32%,"31.865 sq mi
+82.530 km2","4,803 per sq mi
+1,855 km-2",619388,42.1155  72.5400 ,Massachusetts,Springfield413,"Springfield413['1', '~4']",1
+159,Pasadena,Texas,152272,149043,+2.17%,"42.762 sq mi
+110.754 km2","3,485 per sq mi
+1,346 km-2",2411380,29.6583  95.1505 ,Texas,PasadenaTX,"Pasadena?['967', '~3']",0
+160,Rockford,Illinois,150843,152871,-1.3300%,"61.081 sq mi
+158.200 km2","2,503 per sq mi
+966 km-2",2396405,42.2634  89.0628 ,Illinois,Rockford,"Rockford['546', '~2']",546
+161,Pomona,California,150812,149058,+1.18%,"22.952 sq mi
+59.444 km2","6,494 per sq mi
+2,508 km-2",2411454,34.0586  117.7613 ,California,Pomona,"Pomona['27', '~1']",27
+162,Hayward,California,149392,144186,+3.61%,"45.323 sq mi
+117.386 km2","3,181 per sq mi
+1,228 km-2",2410724,37.6281  122.1063 ,California,Hayward,"Hayward['51', '~5']",51
+163,Fort Collins,Colorado,148612,143986,+3.21%,"54.277 sq mi
+140.578 km2","2,653 per sq mi
+1,024 km-2",2410526,40.5482  105.0648 ,Colorado,FortCollins,"FortCollins['2,529', '~10']",2529
+164,Joliet,Illinois,148268,147433,+0.57%,"62.114 sq mi
+160.874 km2","2,374 per sq mi
+916 km-2",2395477,41.5181  88.1584 ,Illinois,Joliet,"Joliet['51', '~5']",51
+165,Escondido,California,147575,143911,+2.55%,"36.813 sq mi
+95.345 km2","3,909 per sq mi
+1,509 km-2",2410455,33.1336  117.0732 ,California,Escondido,"Escondido['19', '~3']",19
+166,Kansas City,Kansas,147268,145786,+1.02%,"124.810 sq mi
+323.256 km2","1,168 per sq mi
+451 km-2",485601,39.1225  94.7418 ,Kansas,kansasCity,"KansasCity['8,300', '~26']",8300
+167,Torrance,California,147027,145438,+1.09%,"20.478 sq mi
+53.038 km2","7,102 per sq mi
+2,742 km-2",2412087,33.8350  118.3414 ,California,Torrance,"Torrance['3', '~5']",3
+168,Bridgeport,Connecticut,146425,144229,+1.52%,"15.974 sq mi
+41.372 km2","9,029 per sq mi
+3,486 km-2",2378269,41.1874  73.1957 ,Connecticut,Bridgeportct,Bridgeport[],1
+169,Alexandria,Virginia,146294,139966,+4.52%,"15.027 sq mi
+38.920 km2","9,314 per sq mi
+3,596 km-2",1498415,38.8183  77.0820 ,Virginia,Alexandria_VA,"Alexandria['1,745', '~4']",22
+170,Sunnyvale,California,146197,140081,+4.37%,"21.987 sq mi
+56.947 km2","6,371 per sq mi
+2,460 km-2",2412009,37.3858  122.0263 ,California,Sunnyvale,"Sunnyvale['363', '~3']",363
+171,Cary,North Carolina,145693,135234,+7.73%,"54.345 sq mi
+140.754 km2","2,488 per sq mi
+961 km-2",2406229,35.7821  78.8141 ,North Carolina,TownOfCary,"Cary['37', '~4']",11
+172,Lakewood,Colorado,145516,142980,+1.77%,"42.880 sq mi
+111.060 km2","3,334 per sq mi
+1,287 km-2",2411614,39.6989  105.1176 ,Colorado,Lakewoodco?,"Lakewood['67', '~5']",0
+173,Hollywood,Florida,145236,140768,+3.17%,"27.366 sq mi
+70.879 km2","5,144 per sq mi
+1,986 km-2",2404719,26.0311  80.1646 ,Florida,Hollywood?,"Hollywood['114', '~0']",114
+174,Paterson,New Jersey,145219,146199,-0.6700%,"8.428 sq mi
+21.829 km2","17,346 per sq mi
+6,697 km-2",885343,40.9147  74.1628 ,New Jersey,Paterson?,Patersonnj[],11
+175,Syracuse,New York,144170,145170,-0.6900%,"25.043 sq mi
+64.862 km2","5,797 per sq mi
+2,238 km-2",979539,43.0410  76.1436 ,New York,Syracuse,"Syracuse['1,895', '~9']",1895
+176,Naperville,Illinois,143684,141853,+1.29%,"38.769 sq mi
+100.412 km2","3,659 per sq mi
+1,413 km-2",2395147,41.7492  88.1620 ,Illinois,Naperville,"Naperville['294', '~4']",294
+177,McKinney,Texas,143223,131117,+9.23%,"62.209 sq mi
+161.120 km2","2,108 per sq mi
+814 km-2",2411064,33.2012  96.6680 ,Texas,McKinney,"McKinney['293', '~3']",293
+178,Mesquite,Texas,143195,139824,+2.41%,"46.021 sq mi
+119.194 km2","3,038 per sq mi
+1,173 km-2",2411090,32.7639  96.5924 ,Texas,Mesquite?,"Mesquite['1', '~1']",1
+179,Clarksville,Tennessee,142519,132929,+7.21%,"97.603 sq mi
+252.789 km2","1,362 per sq mi
+526 km-2",2404061,36.5664  87.3452 ,Tennessee,Clarksville,"Clarksville['287', '~5']",287
+180,Savannah,Georgia,142022,136286,+4.21%,"103.151 sq mi
+267.160 km2","1,321 per sq mi
+510 km-2",2405429,32.0025  81.1536 ,Georgia,Savannah,"Savannah['1,444', '~7']",1444
+181,Dayton,Ohio,141359,141527,-0.1200%,"55.652 sq mi
+144.139 km2","2,543 per sq mi
+982 km-2",1086666,39.7774  84.1996 ,Ohio,Dayton,"Dayton['1,929', '~1']",1929
+182,Orange,California,139419,136416,+2.20%,"24.797 sq mi
+64.224 km2","5,501 per sq mi
+2,124 km-2",2411325,33.8048  117.8249 ,California,???,"Orange['147', '~4']",0
+183,Fullerton,California,138574,135161,+2.53%,"22.353 sq mi
+57.893 km2","6,047 per sq mi
+2,335 km-2",2410556,33.8857  117.9280 ,California,???,"Fullerton['42', '~3']",0
+184,Pasadena,California,138547,137122,+1.04%,"22.970 sq mi
+59.493 km2","5,970 per sq mi
+2,305 km-2",2411379,34.1606  118.1396 ,California,Pasadena,"Pasadena['967', '~3']",967
+185,Hampton,Virginia,136836,137436,-0.4400%,"51.413 sq mi
+133.160 km2","2,673 per sq mi
+1,032 km-2",1498554,37.0480  76.2971 ,Virginia,HamptonRoads,"Hampton['11', '~2']",719
+186,McAllen,Texas,134719,129877,+3.73%,"48.344 sq mi
+125.209 km2","2,687 per sq mi
+1,037 km-2",2411057,26.2185  98.2461 ,Texas,???,"McAllen['31', '~2']",0
+187,Killeen,Texas,134654,127921,+5.26%,"53.580 sq mi
+138.773 km2","2,387 per sq mi
+922 km-2",2411542,31.0777  97.7320 ,Texas,Killeen,"Killeen['245', '~6']",245
+188,Warren,Michigan,134141,134056,+0.06%,"34.381 sq mi
+89.045 km2","3,899 per sq mi
+1,505 km-2",1627213,42.4929  83.0250 ,Michigan,???,"Warren['7', '~2']",0
+189,West Valley City,Utah,132434,129480,+2.28%,"35.556 sq mi
+92.090 km2","3,642 per sq mi
+1,406 km-2",2412231,40.6885  112.0118 ,Utah,???,WestValleyCity[],0
+190,Columbia,South Carolina,131686,129272,+1.87%,"132.213 sq mi
+342.431 km2","978 per sq mi
+378 km-2",2404107,34.0298  80.8966 ,South Carolina,Columbiasc,"Columbia['1,170', '~1']",72
+191,New Haven,Connecticut,130741,129779,+0.74%,"18.679 sq mi
+48.377 km2","6,948 per sq mi
+2,683 km-2",2378285,41.3108  72.9250 ,Connecticut,NewHaven,"NewHaven['1,220', '~9']",1220
+192,Sterling Heights,Michigan,130410,129699,+0.55%,"36.505 sq mi
+94.547 km2","3,553 per sq mi
+1,372 km-2",1627126,42.5812  83.0303 ,Michigan,???,SterlingHeights[],0
+193,Olathe,Kansas,130045,125872,+3.32%,"59.661 sq mi
+154.521 km2","2,110 per sq mi
+815 km-2",485633,38.8843  94.8188 ,Kansas,Olathe,"Olathe['53', '~3']",53
+194,Miramar,Florida,128729,122041,+5.48%,"29.521 sq mi
+76.458 km2","4,134 per sq mi
+1,596 km-2",2404275,25.9770  80.3358 ,Florida,???,Miramar[],0
+195,Thousand Oaks,California,128412,126683,+1.36%,"55.031 sq mi
+142.530 km2","2,302 per sq mi
+889 km-2",2412065,34.1933  118.8742 ,California,ThousandOaks,"ThousandOaks['454', '~5']",454
+196,Frisco,Texas,128176,116989,+9.56%,"61.804 sq mi
+160.071 km2","1,893 per sq mi
+731 km-2",2410549,33.1510  96.8193 ,Texas,Frisco,"Frisco['274', '~6']",274
+197,Cedar Rapids,Iowa,128119,126326,+1.42%,"70.799 sq mi
+183.368 km2","1,784 per sq mi
+689 km-2",467567,41.9670  91.6778 ,Iowa,CedarRapids,"CedarRapids['812', '~6']",812
+198,Topeka,Kansas,127939,127473,+0.37%,"60.168 sq mi
+155.833 km2","2,119 per sq mi
+818 km-2",485655,39.0362  95.6948 ,Kansas,Topeka,"Topeka['290', '~4']",290
+199,Visalia,California,127081,124442,+2.12%,"36.246 sq mi
+93.876 km2","3,433 per sq mi
+1,326 km-2",2412160,36.3272  119.3234 ,California,Visalia,"Visalia['87', '~1']",87
+200,Waco,Texas,127018,124805,+1.77%,"88.964 sq mi
+230.416 km2","1,403 per sq mi
+542 km-2",2412162,31.5601  97.1860 ,Texas,Waco,"Waco['786', '~5']",786
+201,Elizabeth,New Jersey,126458,124969,+1.19%,"12.319 sq mi
+31.907 km2","10,144 per sq mi
+3,917 km-2",885205,40.6663  74.1935 ,New Jersey,elizabethcity,"elizabethcity['3', '~6']",3
+202,Bellevue,Washington,126439,122363,+3.33%,"31.968 sq mi
+82.796 km2","3,828 per sq mi
+1,478 km-2",2409821,47.5978  122.1565 ,Washington,Bellevue,"Bellevue['838', '~1']",838
+203,Gainesville,Florida,126047,124354,+1.36%,"61.305 sq mi
+158.779 km2","2,028 per sq mi
+783 km-2",2403676,29.6788  82.3459 ,Florida,Gainesville,"Gainesville['252', '~3']",252
+204,Simi Valley,California,125793,124237,+1.25%,"41.480 sq mi
+107.433 km2","2,995 per sq mi
+1,156 km-2",2411904,34.2669  118.7485 ,California,SimiValley,"SimiValley['316', '~3']",316
+205,Charleston,South Carolina,125583,120083,+4.58%,"108.979 sq mi
+282.253 km2","1,102 per sq mi
+425 km-2",2404030,32.8179  79.9589 ,South Carolina,Charleston,"Charleston['2,866', '~12']",2867
+206,Carrollton,Texas,125409,119097,+5.30%,"36.296 sq mi
+94.007 km2","3,281 per sq mi
+1,267 km-2",2409992,32.9884  96.8998 ,Texas,CarrolltonTX,"CarrolltonTX['68', '~1']",68
+207,Coral Springs,Florida,125287,121096,+3.46%,"23.792 sq mi
+61.620 km2","5,090 per sq mi
+1,965 km-2",2404127,26.2708  80.2593 ,Florida,CoralSprings,"CoralSprings['83', '~3']",83
+208,Stamford,Connecticut,125109,122643,+2.01%,"37.639 sq mi
+97.483 km2","3,258 per sq mi
+1,258 km-2",2378291,41.0799  73.5460 ,Connecticut,StamfordCT,"StamfordCT['202', '~3']",202
+209,Hartford,Connecticut,124893,124775,+0.09%,"17.381 sq mi
+45.016 km2","7,179 per sq mi
+2,772 km-2",2378277,41.7660  72.6833 ,Connecticut,Hartford,"Hartford['590', '~2']",590
+210,Concord,California,124711,122067,+2.17%,"30.546 sq mi
+79.114 km2","3,996 per sq mi
+1,543 km-2",2410214,37.9722  122.0016 ,California,Concordca???,"Concord???['24', '~0']",0
+211,Roseville,California,124519,118788,+4.82%,"36.222 sq mi
+93.814 km2","3,279 per sq mi
+1,266 km-2",2411000,38.7657  121.3032 ,California,Roseville,"Roseville['592', '~3']",592
+212,Thornton,Colorado,124140,118772,+4.52%,"34.843 sq mi
+90.243 km2","3,409 per sq mi
+1,316 km-2",2412064,39.9180  104.9454 ,Colorado,Temecula,"Temecula['253', '~5']",253
+213,Kent,Washington,122999,92411,+33.10%,"28.625 sq mi
+74.139 km2","3,228 per sq mi
+1,246 km-2",2410185,47.3853  122.2169 ,Washington,Thorntonwa???,"Thornton???['3', '~0']",0
+214,Lafayette,Louisiana,122761,120623,+1.77%,"49.231 sq mi
+127.509 km2","2,450 per sq mi
+946 km-2",2404854,30.2116  92.0314 ,Louisiana,Lafayettela????,"Lafayette????['608', '~0']",49
+215,Surprise,Arizona,121287,117517,+3.21%,"105.747 sq mi
+273.884 km2","1,111 per sq mi
+429 km-2",2412016,33.6706  112.4527 ,Arizona,Surpriseaz????,"Surprise????['261', '~1']",14
+216,Denton,Texas,121123,113383,+6.83%,"87.952 sq mi
+227.794 km2","1,289 per sq mi
+498 km-2",2410323,33.2151  97.1417 ,Texas,Denton,"Denton['2,857', '~11']",2857
+217,Victorville,California,120336,115903,+3.82%,"73.178 sq mi
+189.529 km2","1,584 per sq mi
+612 km-2",2412156,34.5277  117.3536 ,California,Victorvilleca????,"Victorville????['422', '423', '424', '0', '1', '2']",0
+218,Evansville,Indiana,120235,117429,+2.39%,"44.153 sq mi
+114.357 km2","2,660 per sq mi
+1,027 km-2",2394710,37.9877  87.5347 ,Indiana,Evansville,"Evansville['575', '~5']",575
+219,Midland,Texas,119385,111147,+7.41%,"72.071 sq mi
+186.663 km2","1,542 per sq mi
+595 km-2",2411096,32.0299  102.1097 ,Texas,Midessa,"Midessa['448', '~6']",448
+220,Santa Clara,California,119311,116468,+2.44%,"18.407 sq mi
+47.675 km2","6,327 per sq mi
+2,443 km-2",2411816,37.3646  121.9679 ,California,SantaClara,"SantaClara['20', '~3']",20
+221,Athens,Georgia,118999,115452,+3.07%,"116.355 sq mi
+301.358 km2","992 per sq mi
+383 km-2",2407405,33.9496  83.3701 ,Georgia,Athens,"Athens['1,668', '~9']",1668
+222,Allentown,Pennsylvania,118974,118032,+0.80%,"17.546 sq mi
+45.443 km2","6,727 per sq mi
+2,597 km-2",1215372,40.5940  75.4782 ,Pennsylvania,Allentown,"Allentown['42', '~5']",42
+223,Abilene,Texas,118887,117063,+1.56%,"106.793 sq mi
+276.592 km2","1,096 per sq mi
+423 km-2",2409657,32.4545  99.7381 ,Texas,Abilene,"Abilene['57', '~3']",57
+224,Beaumont,Texas,118228,118296,-0.0600%,"82.801 sq mi
+214.452 km2","1,429 per sq mi
+552 km-2",2409806,30.0843  94.1458 ,Texas,Beaumont,"Beaumont['162', '~6']",162
+225,Vallejo,California,117796,115942,+1.60%,"30.671 sq mi
+79.439 km2","3,780 per sq mi
+1,460 km-2",2412142,38.1079  122.2639 ,California,Vallejo,"Vallejo['68', '~0']",68
+226,Independence,Missouri,117270,116830,+0.38%,"77.567 sq mi
+200.897 km2","1,506 per sq mi
+582 km-2",2395422,39.0853  94.3513 ,Missouri,Independence????,Independence????[],0
+227,Springfield,Illinois,117126,116250,+0.75%,"59.480 sq mi
+154.051 km2","1,954 per sq mi
+755 km-2",2395940,39.7639  89.6708 ,Illinois,SpringfieldIL,"SpringfieldIL['500', '~2']",500
+228,Ann Arbor,Michigan,116121,113934,+1.92%,"27.830 sq mi
+72.079 km2","4,094 per sq mi
+1,581 km-2",1625837,42.2756  83.7313 ,Michigan,AnnArbor,"AnnArbor['4,246', '~11']",4246
+229,Provo,Utah,115919,112488,+3.05%,"41.673 sq mi
+107.931 km2","2,699 per sq mi
+1,042 km-2",2411499,40.2453  111.6448 ,Utah,ProvoUtah,"ProvoUtah['156', '~2']",156
+230,Peoria,Illinois,115687,115007,+0.59%,"48.007 sq mi
+124.338 km2","2,396 per sq mi
+925 km-2",2396178,40.7523  89.6171 ,Illinois,PeoriaIL,"PeoriaIL['531', '~4']",531
+231,Norman,Oklahoma,115562,110925,+4.18%,"178.763 sq mi
+462.995 km2","621 per sq mi
+240 km-2",2411267,35.2406  97.3453 ,Oklahoma,Norman,"Norman['7', '~5']",7
+232,Berkeley,California,115403,112580,+2.51%,"10.470 sq mi
+27.118 km2","10,752 per sq mi
+4,152 km-2",2409837,37.8667  122.2991 ,California,Berkeley,"Berkeley['6,680', '~42']",6681
+233,El Monte,California,115111,113475,+1.44%,"9.562 sq mi
+24.766 km2","11,867 per sq mi
+4,582 km-2",2410413,34.0746  118.0291 ,California,ElMonte,"ElMonte['16', '~6']",16
+234,Murfreesboro,Tennessee,114038,108755,+4.86%,"55.346 sq mi
+143.347 km2","1,965 per sq mi
+759 km-2",2404342,35.8522  86.4161 ,Tennessee,Murfreesboro,"Murfreesboro['440', '~2']",440
+235,Lansing,Michigan,113996,114297,-0.2600%,"36.049 sq mi
+93.366 km2","3,171 per sq mi
+1,224 km-2",1626588,42.7098  84.5562 ,Michigan,Lansing,"Lansing['1,069', '~5']",1069
+236,Columbia,Missouri,113225,108500,+4.35%,"63.077 sq mi
+163.367 km2","1,720 per sq mi
+664 km-2",2393605,38.9479  92.3261 ,Missouri,columbiamo,"Columbia['1,170', '~1']",1374
+237,Downey,California,112873,111772,+0.99%,"12.408 sq mi
+32.137 km2","9,008 per sq mi
+3,478 km-2",2410352,33.9382  118.1309 ,California,Downeyca????,"Downey['2,743', '2,744', '2,745', '13', '14', '15', '40', '41', '42', '11', '12', '13', '9', '10', '11', '3', '4', '5', '1,032', '1,033', '1,034', '-1', '0', '1', '1', '2', '3', '-1', '0', '1', '0', '1', '2', '1', '2', '3', '9', '10', '11']",0
+238,Costa Mesa,California,111918,109960,+1.78%,"15.654 sq mi
+40.543 km2","7,025 per sq mi
+2,712 km-2",2410239,33.6659  117.9123 ,California,CostaMesa,"CostaMesa['31', '~1']",31
+239,Inglewood,California,111182,109673,+1.38%,"9.068 sq mi
+23.486 km2","12,095 per sq mi
+4,670 km-2",2410106,33.9561  118.3443 ,California,Inglewoodca????,"Inglewood['0', '1', '2', '0', '1', '2']",0
+240,Miami Gardens,Florida,110754,107167,+3.35%,"18.231 sq mi
+47.217 km2","5,878 per sq mi
+2,270 km-2",2404249,25.9489  80.2436 ,Florida,MiamiGardensfl???,MiamiGardens???[],0
+241,Manchester,New Hampshire,110209,109565,+0.59%,"33.101 sq mi
+85.730 km2","3,310 per sq mi
+1,278 km-2",873658,42.9847  71.4439 ,New Hampshire,Manchester,"Manchester['4,156', '~7']",4156
+242,Elgin,Illinois,109927,108188,+1.61%,"37.163 sq mi
+96.253 km2","2,911 per sq mi
+1,124 km-2",2394641,42.0396  88.3217 ,Illinois,Elgin,"Elgin['75', '~5']",75
+243,Wilmington,North Carolina,109922,106476,+3.24%,"51.493 sq mi
+133.366 km2","2,068 per sq mi
+798 km-2",2405754,34.2092  77.8858 ,North Carolina,Wilmington,"Wilmington['1,389', '~4']",1389
+244,Waterbury,Connecticut,109915,110366,-0.4100%,"28.519 sq mi
+73.864 km2","3,870 per sq mi
+1,494 km-2",2378294,41.5585  73.0367 ,Connecticut,WaterburyCT,"WaterburyCT['6', '~1']",6
+245,Fargo,North Dakota,109779,105549,+4.01%,"48.821 sq mi
+126.446 km2","2,162 per sq mi
+835 km-2",1036030,46.8652  96.8290 ,North Dakota,Fargo,"Fargo['1,152', '~3']",1152
+246,Arvada,Colorado,109745,106433,+3.11%,"35.142 sq mi
+91.018 km2","3,029 per sq mi
+1,169 km-2",2409737,39.8097  105.1066 ,Colorado,denverwest,"Arvada['135', '136', '137', '6', '7', '8']",136
+247,Carlsbad,California,109318,105328,+3.79%,"37.722 sq mi
+97.699 km2","2,792 per sq mi
+1,078 km-2",2409984,33.1239  117.2828 ,California,Carlsbad,"Carlsbad['21', '~4']",21
+248,Westminster,Colorado,109169,106114,+2.88%,"31.550 sq mi
+81.715 km2","3,363 per sq mi
+1,299 km-2",2412237,39.8822  105.0644 ,Colorado,Westminsterco????,"Westminster['13', '~4']",0
+249,Rochester,Minnesota,108992,106769,+2.08%,"54.586 sq mi
+141.377 km2","1,956 per sq mi
+755 km-2",2396395,44.0154  92.4772 ,Minnesota,RochesterMN,"Rochester['4,749', '~11']",424
+250,Gresham,Oregon,108956,105594,+3.18%,"23.201 sq mi
+60.090 km2","4,551 per sq mi
+1,757 km-2",2410663,45.5023  122.4416 ,Oregon,Gresham,"Gresham['33', '~6']",33
+251,Clearwater,Florida,108732,107685,+0.97%,"25.562 sq mi
+66.204 km2","4,213 per sq mi
+1,627 km-2",2404067,27.9795  82.7663 ,Florida,Clearwater,"Clearwater['70', '~4']",70
+252,Lowell,Massachusetts,108522,106519,+1.88%,"13.583 sq mi
+35.180 km2","7,842 per sq mi
+3,028 km-2",618227,42.6389  71.3221 ,Massachusetts,Lowell,"Lowell['6', '~3']",6
+253,West Jordan,Utah,108383,103712,+4.50%,"32.457 sq mi
+84.063 km2","3,195 per sq mi
+1,234 km-2",2412222,40.6023  112.0010 ,Utah,WestJordanut???,WestJordan???[],30
+254,Pueblo,Colorado,107772,106595,+1.10%,"53.641 sq mi
+138.930 km2","1,987 per sq mi
+767 km-2",2411501,38.2731  104.6124 ,Colorado,Pueblo,"Pueblo['147', '~2']",147
+255,San Buenaventura (Ventura),California,107734,106433,+1.22%,"21.655 sq mi
+56.085 km2","4,915 per sq mi
+1,898 km-2",2411779,34.2681  119.2550 ,California,SanBuenaventura(Ventura),SanBuenaventura(Ventura)[],0
+256,Fairfield,California,107684,105321,+2.24%,"37.390 sq mi
+96.839 km2","2,817 per sq mi
+1,088 km-2",2410474,38.2568  122.0397 ,California,Fairfield,"Fairfield['79', '~4']",79
+257,West Covina,California,107440,106098,+1.26%,"16.041 sq mi
+41.545 km2","6,614 per sq mi
+2,554 km-2",2412219,34.0559  117.9099 ,California,WestCovina???,WestCovina???[],0
+258,Billings,Montana,106954,104170,+2.67%,"43.413 sq mi
+112.440 km2","2,399 per sq mi
+926 km-2",2409849,45.7895  108.5499 ,Montana,Billings,"Billings['294', '~5']",294
+259,Murrieta,California,106810,103466,+3.23%,"33.577 sq mi
+86.964 km2","3,081 per sq mi
+1,190 km-2",2411199,33.5719  117.1907 ,California,Murrieta,"Murrieta['39', '~0']",39
+260,High Point,North Carolina,106586,104371,+2.12%,"53.803 sq mi
+139.348 km2","1,940 per sq mi
+749 km-2",2404696,35.9855  79.9902 ,North Carolina,HighPoint???,"HighPoint???['10', '11', '12', '3', '4', '5', '2', '3', '4']",10
+261,Round Rock,Texas,106573,99887,+6.69%,"34.113 sq mi
+88.352 km2","2,928 per sq mi
+1,131 km-2",2411005,30.5237  97.6674 ,Texas,RoundRock,"RoundRock['499', '~3']",499
+262,Richmond,California,106516,103701,+2.71%,"30.068 sq mi
+77.875 km2","3,449 per sq mi
+1,332 km-2",2410939,37.9530  122.3594 ,California,Richmondca,"Richmondca['13', '~5']",13
+263,Cambridge,Massachusetts,106471,105162,+1.24%,"6.385 sq mi
+16.538 km2","16,469 per sq mi
+6,359 km-2",619396,42.3760  71.1183 ,Massachusetts,Cambridge,"Cambridge['1,066', '~5']",1066
+264,Norwalk,California,106278,105549,+0.69%,"9.707 sq mi
+25.141 km2","10,873 per sq mi
+4,198 km-2",2411281,33.9069  118.0834 ,California,Norwalk,"Norwalk['11', '~4']",11
+265,Odessa,Texas,106102,99940,+6.17%,"41.955 sq mi
+108.662 km2","2,382 per sq mi
+920 km-2",2411303,31.8804  102.3434 ,Texas,Odessa?(alreadycoveredunder),Odessa?(alreadycoveredunder)[],0
+266,Antioch,California,105508,102372,+3.06%,"28.349 sq mi
+73.422 km2","3,611 per sq mi
+1,394 km-2",2409715,37.9775  121.7976 ,California,Antioch,"Antioch['2', '~4']",2
+267,Temecula,California,105208,100097,+5.11%,"30.151 sq mi
+78.092 km2","3,320 per sq mi
+1,282 km-2",2412044,33.5019  117.1246 ,California,Temecula,"Temecula['253', '~5']",253
+268,Green Bay,Wisconsin,104868,104057,+0.78%,"45.467 sq mi
+117.758 km2","2,289 per sq mi
+884 km-2",1583309,44.5207  87.9842 ,Wisconsin,GreenBay,"GreenBay['538', '~5']",538
+269,Everett,Washington,104655,103019,+1.59%,"33.447 sq mi
+86.628 km2","3,080 per sq mi
+1,189 km-2",2410469,48.0033  122.1742 ,Washington,Everett,"Everett['394', '~3']",394
+270,Wichita Falls,Texas,104552,104553,0%,"72.140 sq mi
+186.841 km2","1,449 per sq mi
+560 km-2",2412261,33.9067  98.5259 ,Texas,WichitaFalls,"WichitaFalls['107', '~4']",107
+271,Burbank,California,104391,103340,+1.02%,"17.341 sq mi
+44.913 km2","5,959 per sq mi
+2,301 km-2",2409939,34.1890  118.3249 ,California,Burbank,"Burbank['301', '~3']",301
+272,Palm Bay,Florida,104124,103190,+0.91%,"65.702 sq mi
+170.168 km2","1,571 per sq mi
+606 km-2",2404463,27.9856  80.6626 ,Florida,PalmBay ???,PalmBay ???[],0
+273,Centennial,Colorado,103743,100377,+3.35%,"28.722 sq mi
+74.390 km2","3,495 per sq mi
+1,349 km-2",2409422,39.5906  104.8691 ,Colorado,Centennial,"Centennial['3', '~3']",3
+274,Daly City,California,103690,101123,+2.54%,"7.664 sq mi
+19.849 km2","13,195 per sq mi
+5,095 km-2",2410291,37.7009  122.4650 ,California,DalyCity,"DalyCity['10', '~2']",10
+275,Richardson,Texas,103297,99223,+4.11%,"28.564 sq mi
+73.980 km2","3,474 per sq mi
+1,341 km-2",2410933,32.9723  96.7081 ,Texas,Richardson,"Richardson['83', '~5']",83
+276,Pompano Beach,Florida,102984,99845,+3.14%,"24.002 sq mi
+62.165 km2","4,160 per sq mi
+1,606 km-2",2404547,26.2426  80.1290 ,Florida,PompanoBeach,PompanoBeach[],0
+277,Broken Arrow,Oklahoma,102019,98850,+3.21%,"61.571 sq mi
+159.469 km2","1,605 per sq mi
+620 km-2",2409914,36.0365  95.7810 ,Oklahoma,BrokenArrow,"BrokenArrow['5', '~1']",5
+278,North Charleston,South Carolina,101989,97471,+4.64%,,,,32.8853  80.0169 ,South Carolina,NorthCharleston,NorthCharleston[],0
+279,West Palm Beach,Florida,101903,99919,+1.99%,"55.293 sq mi
+143.208 km2","1,807 per sq mi
+698 km-2",2405713,26.7483  80.1266 ,Florida,WestPalmBeach,"WestPalmBeach['58', '~1']",58
+280,Boulder,Colorado,101808,97385,+4.54%,,,,40.0175  105.2797 ,Colorado,Boulder,"Boulder['5,277', '~39']",5277
+281,Rialto,California,101740,99171,+2.59%,"22.351 sq mi
+57.889 km2","4,437 per sq mi
+1,713 km-2",2410931,34.1118  117.3883 ,California,Rialto,"Rialto['7', '~4']",7
+282,Santa Maria,California,101459,99553,+1.91%,"22.756 sq mi
+58.937 km2","4,375 per sq mi
+1,689 km-2",2411824,34.9332  120.4438 ,California,SantaMaria,"SantaMaria['153', '~0']",153
+283,El Cajon,California,101435,99478,+1.97%,"14.433 sq mi
+37.381 km2","6,892 per sq mi
+2,661 km-2",2410406,32.8017  116.9605 ,California,ElCajon???,ElCajon???[],0
+284,Davenport,Iowa,101363,99685,+1.68%,"62.948 sq mi
+163.033 km2","1,584 per sq mi
+611 km-2",2394467,41.5541  90.6040 ,Iowa,Davenport,"Davenport['6', '~1']",6
+285-(T),Erie,Pennsylvania,101047,101786,-0.7300%,"19.081 sq mi
+49.419 km2","5,334 per sq mi
+2,060 km-2",1215209,42.1166  80.0735 ,Pennsylvania,Erie,"Erie['513', '~8']",514
+285-(T),Las Cruces,New Mexico,101047,97618,+3.51%,"76.29 sq mi
+197.59 km2","1,279 per sq mi
+494 km-2",,32.3197  106.7653 ,New Mexico,LasCruces,"LasCruces['359', '~2']",359
+287,South Bend,Indiana,100800,101168,-0.3600%,"41.458 sq mi
+107.375 km2","2,440 per sq mi
+942 km-2",2395913,41.6769  86.2690 ,Indiana,SouthBend,"SouthBend['743', '~4']",743
+288,Flint,Michigan,100515,102434,-1.8700%,"33.416 sq mi
+86.547 km2","3,065 per sq mi
+1,184 km-2",1626285,43.0244  83.6920 ,Michigan,Flint,"Flint['506', '~5']",506
+289,Kenosha,Wisconsin,100150,99218,+0.94%,,,,42.5822  87.8456 ,Wisconsin,Kenosha,"Kenosha['219', '~5']",219
