@@ -19,4 +19,3 @@ for city in cities:
 	page = requests.get('http://www.reddit.com/r/' + cityName)
 	tree = html.fromstring(page.text)
 	print city + str(tree.xpath('//span[@class="number"]/text()'))
-
