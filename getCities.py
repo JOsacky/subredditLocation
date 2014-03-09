@@ -31,5 +31,3 @@ with open('cities.csv', 'wb') as csvfile:
 			info = (newlines.sub("", cities[n]),newlines.sub("", population[n].replace(",","")))
 			print info
 			csvwriter.writerow(info)
-
-#print newlines.sub("", cities)
