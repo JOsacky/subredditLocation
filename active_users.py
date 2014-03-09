@@ -4,6 +4,7 @@ import time
 import csv
 from StringIO import StringIO
 import re
+from datetime import datetime
 
 base_url = 'http://www.reddit.com/r/'
 
@@ -41,7 +42,9 @@ def subreddits():
 
 def generate_file():
     reddits = subreddits()
-    with open('numusers.csv', 'wb') as csvfile:
+    date = datetime.now().strftime('%H:%M:%S')
+    filename = 'numusers_' + date + '.csv'
+    with open(filename, 'wb') as csvfile:
         labels = (["Subreddit Name", "Users Online"])
         writer = csv.writer(csvfile)
         writer.writerow(labels)
