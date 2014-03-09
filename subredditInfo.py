@@ -3,7 +3,6 @@
 from lxml import html
 import requests
 
- 
 page = requests.get('http://www.reddit.com/r/chicago')
 tree = html.fromstring(page.text)
 
