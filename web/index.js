@@ -69,8 +69,13 @@ function parseCSV(data){
 var current_time_lapse_heatmap;
 var time_laps_running = false;
 var current_time_laps_time_index = 0;
-function toggle_time_lapse(bool){
-    time_laps_running = bool;
+
+function toggle_time_lapse(){
+  if (time_laps_running) {
+    time_laps_running = false;
+  } else {
+    time_laps_running = true;
+  }
 }
 
 function update_time_lapse (argument) {
