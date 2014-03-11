@@ -28,7 +28,7 @@ function parseCSV(data){
         var lon = parseFloat(locations[2]);
         console.log("weight: " +weight);
         var new_location = new google.maps.LatLng(lat, -lon);
-        heatMapData.push({location: new_location,weight: 1});
+        heatMapData.push({location: new_location,weight: weight});
 
         city_locations[subreddit_name] = new_location;
 
@@ -123,8 +123,9 @@ function initialize() {
     
     console.log("creating heat map");
     heatmap = new google.maps.visualization.HeatmapLayer({
+        disipating: false,
         data: heatMapData,
-        radius:15,
+        radius: 10,
         opacity:.6,
         map:map
     });
@@ -133,9 +134,15 @@ function initialize() {
     current_time_lapse_heatmap = new google.maps.visualization.HeatmapLayer({
         data: time_lapse_point_array,
         radius: 20,
-        opacity: .6,
+        opacity: .9,
         map: map
     });
+    var new_gradient = [
+                    'rgba(255, 0, 0, 0)',
+                    'rgba(255,180,180, 1.0)',
+                    'rgba(255,140,140, 1.0)',
+                    'rgba(255,60,120, 1.0)'
+                                        ];
 
     var gradient = [
                     'rgba(0,  255, 255, 0)',
@@ -143,7 +150,7 @@ function initialize() {
                     'rgba(0,0,255, 0.7)',
                     'rgba(0,0,255, 0.9)',
                     'rgba(0,0,255, 1.0)'
-                    ]
+                    ];
     current_time_lapse_heatmap.set('gradient', gradient);
 
     time_laps_running = true;
@@ -158,8 +165,10 @@ function toggleHeatmap() {
 function toggle_time_lapse(){
   if (time_laps_running) {
     time_laps_running = false;
+    current_time_lapse_heatmap.setMap(null);
   } else {
     time_laps_running = true;
+    current_time_lapse_heatmap.setMap(map);
   }
 }
 
