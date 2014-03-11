@@ -93,6 +93,7 @@ function update_time_lapse (argument) {
         }
 
         console.log("updating " + current_time_laps_time_index);
+        $('#time').text(time_lapse_instance.time);
     }
 }
 
@@ -100,7 +101,7 @@ var time_lapse_point_array = new google.maps.MVCArray();
 
 function initialize() {
     console.log("initialize");
-    var tid = setInterval(update_time_lapse, 4000);
+    var tid = setInterval(update_time_lapse, 2000);
     getCSV();
     var mapOptions = {
     zoom: 4,
