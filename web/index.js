@@ -102,7 +102,7 @@ function update_time_lapse (argument) {
             time_lapse_point_array.push(data_point);
         }
         console.log("updating " + current_time_laps_time_index);
-        $('#time').text(time_lapse_instance.time);
+        $('#time').text("Snapshot of current active users: " + time_lapse_instance.time);
     }
 }
 

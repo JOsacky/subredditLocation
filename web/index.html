@@ -4,6 +4,8 @@
         <meta charset="utf-8">
             <title>Heatmaps</title>
             <style>
+                @import url("http://fonts.googleapis.com/css?family=Quicksand");
+                @import url("http://fonts.googleapis.com/css?family=Open+Sans+Condensed:light&v1");
                 html, body, #map-canvas {
                     height: 100%;
                     margin: 0px;
@@ -13,26 +15,37 @@
                     position: absolute;
                     top: 5px;
                     left: 50%;
-                    margin-left: -180px;
+                    margin-left: -380px;
                     z-index: 5;
                     background-color: #fff;
                     padding: 5px;
                     border: 1px solid #999;
                 }
+                .timer {
+                    margin-top: 10px;
+                    position: absolute;
+                    margin-left: 150px;
+                    font-size: 20px;
+                }
+                body{
+                    font-family: 'Oass Condensed', sans-serif;
+                }
+
             </style>
+            <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.4.2/pure-min.css">
             <script src="jquery-2.1.0.js"></script>
             <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=visualization"></script>
             <script src="index.js"></script>
         </head>
     <body>
-        <div id="panel">
-            <button onclick="toggleHeatmap()">Toggle Heatmap</button>
-            <button onclick="changeGradient()">Change gradient</button>
-            <button onclick="changeRadius()">Change radius</button>
-            <button onclick="changeOpacity()">Change opacity</button>
-            <button onclick="toggle_time_lapse()">Toggle Time Lapse</button>
-            <div id="time">
-                3:00
+        <div id="panel" style="background-color:rgba(1,1,1,0); border-style:none;">
+            <button class="pure-button" onclick="toggleHeatmap()">Toggle Heatmap</button>
+            <button class="pure-button" onclick="changeGradient()">Change gradient</button>
+            <button class="pure-button" onclick="changeRadius()">Change radius</button>
+            <button class="pure-button" onclick="changeOpacity()">Change opacity</button>
+            <button class="pure-button" onclick="toggle_time_lapse()">Toggle Time Lapse</button>
+            <div class="timer" id="time">
+                ----
             </div>
         </div>
         <div id="map-canvas"></div>
