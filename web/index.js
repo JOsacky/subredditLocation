@@ -6,7 +6,6 @@ var timeLapseData = [];
 var time_laps_loaded = false;
 
 function getCSV(){
-    console.log("got here!!!!");
     $.get("uscities.csv",parseCSV);
 }
 
@@ -24,10 +23,10 @@ function parseCSV(data){
         var weight = parseFloat(numusers)/100.0;
         //console.log(weight);
         var lat = parseFloat(locations[0])
-        var long = parseFloat(locations[2])
+        var lon = parseFloat(locations[2])
         //console.log("lat: " + lat + " long: " + long);
         console.log("weight: " +weight);
-        var new_location = new google.maps.LatLng(lat, -long);
+        var new_location = new google.maps.LatLng(lat, -lon);
         heatMapData.push({location: new_location,weight: 1});
 
         city_locations[subreddit_name] = new_location
@@ -70,14 +69,6 @@ var current_time_lapse_heatmap;
 var time_laps_running = false;
 var current_time_laps_time_index = 0;
 
-function toggle_time_lapse(){
-  if (time_laps_running) {
-    time_laps_running = false;
-  } else {
-    time_laps_running = true;
-  }
-}
-
 function update_time_lapse (argument) {
 
     if(time_laps_loaded && time_laps_running){
@@ -89,14 +80,11 @@ function update_time_lapse (argument) {
         time_lapse_point_array.clear();
         for(var i = 0; i < 80; i++){
             var data_point = data[i];
-            if(data_point.weight <= 1 || i > 50){
-                //continue;
+            if(data_point.weight <= 1 || data_point.weight > 50){
                 console.log("weird weight: " + data_point.weight);
             }
             time_lapse_point_array.push(data_point);
-
         }
-
         console.log("updating " + current_time_laps_time_index);
         $('#time').text(time_lapse_instance.time);
     }
@@ -147,10 +135,16 @@ function initialize() {
     time_lapse_point_array.push(test_data_point);
 }
 
-
-
 function toggleHeatmap() {
     heatmap.setMap(heatmap.getMap() ? null : map);
+}
+
+function toggle_time_lapse(){
+  if (time_laps_running) {
+    time_laps_running = false;
+  } else {
+    time_laps_running = true;
+  }
 }
 
 function changeGradient() {
