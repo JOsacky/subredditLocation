@@ -115,7 +115,7 @@ function initialize() {
     console.log("creating heat map");
     heatmap = new google.maps.visualization.HeatmapLayer({
         data: heatMapData,
-        radius:10,
+        radius:15,
         opacity:.6,
         map:map
     });
@@ -123,17 +123,17 @@ function initialize() {
 
     current_time_lapse_heatmap = new google.maps.visualization.HeatmapLayer({
         data: time_lapse_point_array,
-        radius: 30,
+        radius: 20,
         opacity: .6,
         map: map
     });
 
     var gradient = [
                     'rgba(0,  255, 255, 0)',
-                    'rgba(255,0,0, 0.3)',
-                    'rgba(255,0,0, 0.5)',
-                    'rgba(255,0,0, 0.8)',
-                    'rgba(255,0,0, 1.0)'
+                    'rgba(0,0,255, 0.5)',
+                    'rgba(0,0,255, 0.7)',
+                    'rgba(0,0,255, 0.9)',
+                    'rgba(0,0,255, 1.0)'
                     ]
     current_time_lapse_heatmap.set('gradient', gradient);
 
