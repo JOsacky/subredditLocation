@@ -5,13 +5,17 @@ var timeLapseData = [];
 
 var time_laps_loaded = false;
 
+var markers = [];
+var baseURL = 'http://www.reddit.com/r/';
+
+
 function getCSV(){
     console.log("got here!!!!");
     $.get("uscities.csv",parseCSV);
 }
 
 function parseCSV(data){
-    var city_locations = {}
+    var city_locations = {};
     var rows = data.split('\n');
     for(var i =0; i < rows.length; i++){
         var row = rows[i];
@@ -23,23 +27,38 @@ function parseCSV(data){
         var locations = values[9].trim().split(" ");
         var weight = parseFloat(numusers)/100.0;
         //console.log(weight);
-        var lat = parseFloat(locations[0])
-        var long = parseFloat(locations[2])
+        var lat = parseFloat(locations[0]);
+        var long = parseFloat(locations[2]);
         //console.log("lat: " + lat + " long: " + long);
         console.log("weight: " +weight);
         var new_location = new google.maps.LatLng(lat, -long);
         heatMapData.push({location: new_location,weight: 1});
 
-        city_locations[subreddit_name] = new_location
+        city_locations[subreddit_name] = new_location;
+
+        var marker = new google.maps.Marker({
+            position: new_location,
+            map: map,
+            title: cityname,
+            url: 'http://www.reddit.com/r/' + subreddit_name,
+            icon: 'transparentMarker.png',
+        });
+
+        google.maps.event.addListener(marker, 'click', function() {
+            window.open(this.url, '_blank');
+        });
+
+        markers.push(marker);
     }
+
     console.log("finished parsing cities");
     $.get("active_users_totals.csv",function(data){
         var rows = data.split('\n');
         var num_time_entries = rows[0].split(",").length - 1;
         for(var time_index = 0; time_index < num_time_entries; time_index++){
-            var time_string = rows[0].split(',')[time_index+1]
+            var time_string = rows[0].split(',')[time_index+1];
             var heat_map_data = [];
-            var total_active = 0
+            var total_active = 0;
             for(var i =2; i < rows.length; i++){
                 var row = rows[i].split(',');
                 var subreddit_name = row[0];
