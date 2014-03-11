@@ -149,19 +149,18 @@ function toggleHeatmap() {
 }
 
 function changeGradient() {
-    /*var gradient = [
-                    "rgb(0,0,255)",
-                    "rgb(0,40,255)",
-                    "rgb(0,255,0)",
+    var gradient = [
+                    'rgba(0, 255, 255, 0)',
+                    'rgba(255, 0, 0, 1)',
                     ]
-    heatmap.set('gradient', heatmap.get('gradient') ? null : gradient);*/
+    heatmap.set('gradient', heatmap.get('gradient') ? null : gradient);
 }
 
 function changeRadius() {
-    //heatmap.set('radius', heatmap.get('radius') ? null : 50);
+    heatmap.set('radius', heatmap.get('radius') ? null : 10);
 }
 
 function changeOpacity() {
-    //heatmap.set('opacity', heatmap.get('opacity') ? null : 0.2);
+    heatmap.set('opacity', heatmap.get('opacity') ? null : 0.6);
 }
 google.maps.event.addDomListener(window, 'load', initialize);
