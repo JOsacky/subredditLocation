@@ -66,20 +66,14 @@ function parseCSV(data){
     });
 }
 
-var current_time_lapse_heatmap = null;
+var current_time_lapse_heatmap;
 var time_laps_running = false;
 var current_time_laps_time_index = 0;
 function toggle_time_lapse(bool){
     time_laps_running = bool;
-    if(current_time_lapse_heatmap){
-            current_time_lapse_heatmap.setMap(bool ? map : null);
-            current_time_lapse_heatmap = null;
-
-    }
 }
 
 function update_time_lapse (argument) {
-    console.log("updating");
 
     if(time_laps_loaded && time_laps_running){
         current_time_laps_time_index = (current_time_laps_time_index + 1)% timeLapseData.length;
@@ -88,22 +82,25 @@ function update_time_lapse (argument) {
         var time = time_lapse_instance.time;
 
         time_lapse_point_array.clear();
-        for(var i = 0; i < data.length; i++){
+        for(var i = 0; i < 80; i++){
             var data_point = data[i];
-
-            var new_data = {location: new google.maps.LatLng(data_point.location.lat(), data_point.location.lng()),
-                        weight: 1};
+            if(data_point.weight <= 1 || i > 50){
+                //continue;
+                console.log("weird weight: " + data_point.weight);
+            }
             time_lapse_point_array.push(data_point);
+
         }
-        console.log("updating");
-        
+
+        console.log("updating " + current_time_laps_time_index);
     }
 }
 
 var time_lapse_point_array = new google.maps.MVCArray();
+
 function initialize() {
     console.log("initialize");
-    var tid = setInterval(update_time_lapse, 2000);
+    var tid = setInterval(update_time_lapse, 4000);
     getCSV();
     var mapOptions = {
     zoom: 4,
@@ -121,15 +118,27 @@ function initialize() {
         opacity:.6,
         map:map
     });
+   
 
     current_time_lapse_heatmap = new google.maps.visualization.HeatmapLayer({
         data: time_lapse_point_array,
-        radius: 10,
+        radius: 30,
         opacity: .6,
         map: map
     });
+
+    var gradient = [
+                    'rgba(0,  255, 255, 0)',
+                    'rgba(255,0,0, 0.3)',
+                    'rgba(255,0,0, 0.5)',
+                    'rgba(255,0,0, 0.8)',
+                    'rgba(255,0,0, 1.0)'
+                    ]
+    current_time_lapse_heatmap.set('gradient', gradient);
+
     time_laps_running = true;
-    
+    test_data_point = {location: new google.maps.LatLng(41.8376, -87.6818), weight: 1}
+    time_lapse_point_array.push(test_data_point);
 }
 
 
@@ -141,10 +150,8 @@ function toggleHeatmap() {
 function changeGradient() {
     /*var gradient = [
                     "rgb(0,0,255)",
-                    "rgb(0,255,255)",
+                    "rgb(0,40,255)",
                     "rgb(0,255,0)",
-                    "yellow",
-                    "rgb(255,0,0)"
                     ]
     heatmap.set('gradient', heatmap.get('gradient') ? null : gradient);*/
 }
