@@ -12,3 +12,9 @@
 3. `python -m SimpleHTTPServer`
 4. Open browser
   * *http://localhost:8000/web/index.html*
+
+### Features
+* Red dots symbolize the # of subscribers for that city's subreddit
+* Blue shadows symbolize the # of active users (snapshot)
+* Click the red dots to redirect to that subreddit
+
