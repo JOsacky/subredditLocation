@@ -2,9 +2,9 @@
 
 ### Dependencies
 * Python 2.xx
-* pip install requests
-* pip install lxml
-  * For Mac: STATIC_DEPS=true sudo pip install lxml
+* `sudo pip install requests`
+* `sudo pip install lxml`
+  * For OS X: `STATIC_DEPS=true sudo pip install lxml`
 
 ### Run Instructions
 1. `git clone https://github.com/JOsacky/subredditLocation.git`
